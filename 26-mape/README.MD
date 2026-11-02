@@ -1,10 +1,6 @@
 # Kuiļa Simulātors
 Savāc sapuvušo ēdienu!
-            _____  26-mape ______
-           |          |          |
-        atteli   index.html   skanas
-          |                       |            
-   varonis.png                  oink.mp3
+26-mape --->  skanas/atteli/index.html  ----> varonis.jpg/oink.mp3
 
 Atver index.html
 
